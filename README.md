@@ -1,2 +1,2 @@
 # lavarel
-learn  lavarel
+learn  laravel
